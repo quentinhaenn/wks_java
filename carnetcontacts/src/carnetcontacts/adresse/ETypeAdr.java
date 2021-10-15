@@ -1,5 +1,5 @@
 package carnetcontacts.adresse;
 
-public enum ETypeAdr{
-    EU, US;
+public enum ETypeAdr {
+    EU,US ;
 }

@@ -1,8 +1,6 @@
 package carnetcontacts.adresse;
 
 import java.util.Objects;
-import carnetcontacts.adresse.ETypeAdr;
-import carnetcontacts.adresse.AbstractAdresse;
 
 public class AdresseUs extends AbstractAdresse{
     private String zipCode;

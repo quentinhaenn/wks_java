@@ -3,11 +3,11 @@ package carnetcontacts.contact;
 abstract public class AbstractContact{
     protected String mNomContact;
 
-    public Contact(){
+    public AbstractContact(){
         mNomContact = "John doe";
     }
     
-    public Contact(final String nomContact, Coordonnees coord)
+    public AbstractContact(final String nomContact, Coordonnees coord)
     {
         mNomContact = nomContact;
     }

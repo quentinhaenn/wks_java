@@ -19,7 +19,7 @@ public class Entreprise extends AbstractContact {
         return mSiret;
     }
 
-    public Category getCategory(){
+    public ECategory getCategory(){
         return mCat;
     }
 }

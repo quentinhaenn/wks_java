@@ -1,7 +1,6 @@
 package carnetcontacts.adresse;
 
 import java.util.Objects;
-import carnetcontacts.adresse.ETypeAdr;
 
 public abstract class AbstractAdresse {
     protected Integer numRue;
